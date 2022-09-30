@@ -6,10 +6,17 @@ body {
  justify-content: center;
  align-items: center;
  flex-direction: column; 
- color: rgb(28, 235, 28);
+ color: rgb(47, 56, 47);
  font-family: "algerian", sans-serif;
 } 
 .h1 {
  font-family: "Times New Roman", Times, serif;
  color:aliceblue;
+}
+
+.input{
+ display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 20%;
 }
